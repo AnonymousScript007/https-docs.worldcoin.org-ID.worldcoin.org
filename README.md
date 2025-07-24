@@ -1,2 +1,2 @@
-# https-docs.worldcoin.org-ID.worldcoin.org
+# https-ID.worldcoin.org
 WORLD APP - WebCooiNew
